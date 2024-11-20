@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97d0fdc4-458e-4df4-ae67-0b58bdcab940" name="Changes" comment="Updated pom.xml file">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ie/atu/week8/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ie/atu/week8/CustomerApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/week8/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/week8/Customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/week8/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/week8/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/week8/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +28,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2p7YVJBNOza7EXrMvwcaX6fsPEz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -37,8 +47,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/BARTLOMIEJDRAPINSKI-/OneDrive - Atlantic TU/YEAR 2/Object Oriented Programming/IdeaProjects/Inheritance",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -61,6 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1732110498205</updated>
       <workItem from="1732110498980" duration="4452000" />
+      <workItem from="1732118603785" duration="1387000" />
     </task>
     <task id="LOCAL-00001" summary="Created project">
       <created>1732111128119</created>

@@ -1,4 +1,4 @@
-package src.main.java.ie.atu.week8;
+package ie.atu.week8;
 
 public class Person {
     private String name;
@@ -43,10 +43,8 @@ public class Person {
 
     @Override
     public String toString() {
-        return "Person{" +
-                "name='" + name + '\'' +
+        return  "name='" + name + '\'' +
                 ", address='" + address + '\'' +
-                ", phone='" + phone + '\'' +
-                '}';
+                ", phone='" + phone;
     }
 }
