@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97d0fdc4-458e-4df4-ae67-0b58bdcab940" name="Changes" comment="Updated pom.xml file">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ie/atu/week8/CustomerApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="97d0fdc4-458e-4df4-ae67-0b58bdcab940" name="Changes" comment="Working on CustomerApp">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ie/atu/week8/PreferredCustomer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/week8/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/week8/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/week8/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/week8/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/week8/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1732110498205</updated>
       <workItem from="1732110498980" duration="4452000" />
-      <workItem from="1732118603785" duration="1387000" />
+      <workItem from="1732118603785" duration="2957000" />
     </task>
     <task id="LOCAL-00001" summary="Created project">
       <created>1732111128119</created>
@@ -89,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1732111324697</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Working on CustomerApp">
+      <created>1732120050212</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732120050212</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +101,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created project" />
     <MESSAGE value="Updated pom.xml file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated pom.xml file" />
+    <MESSAGE value="Working on CustomerApp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working on CustomerApp" />
   </component>
 </project>

@@ -15,6 +15,8 @@ public class Customer extends Person {
         this.onMailingList = onMailingList;
     }
 
+
+
     public String getCustomerNum() {
         return customerNum;
     }
@@ -33,7 +35,7 @@ public class Customer extends Person {
 
     @Override
     public String toString() {
-        return super.toString() +
+        return  "Customer Details: " + super.toString() + " " +
                 ", customerNum='" + customerNum + '\'' +
                 ", onMailingList=" + onMailingList;
     }
