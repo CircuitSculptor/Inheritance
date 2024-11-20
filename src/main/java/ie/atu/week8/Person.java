@@ -43,6 +43,10 @@ public class Person {
 
     @Override
     public String toString() {
-        return "Name: " + name + ", Address: " + address + ", Phone: " + phone;
+        return "Person{" +
+                "name='" + name + '\'' +
+                ", address='" + address + '\'' +
+                ", phone='" + phone + '\'' +
+                '}';
     }
 }

@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97d0fdc4-458e-4df4-ae67-0b58bdcab940" name="Changes" comment="Created project">
+    <list default="true" id="97d0fdc4-458e-4df4-ae67-0b58bdcab940" name="Changes" comment="Updated pom.xml file">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ie/atu/week8/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/week8/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/week8/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/week8/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/week8/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +47,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="src.main.java.ie.atu" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732110498205</updated>
-      <workItem from="1732110498980" duration="797000" />
+      <workItem from="1732110498980" duration="4452000" />
     </task>
     <task id="LOCAL-00001" summary="Created project">
       <created>1732111128119</created>
@@ -61,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1732111128119</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated pom.xml file">
+      <created>1732111324697</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732111324697</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,6 +84,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created project" />
+    <MESSAGE value="Updated pom.xml file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated pom.xml file" />
   </component>
 </project>
