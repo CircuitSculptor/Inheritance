@@ -14,5 +14,7 @@ public class PreferredCustomer extends Customer {
 
         System.out.println(preferredCustomer);
 
+        preferredCustomer.setLoyaltyPoints(800);
+        System.out.println(preferredCustomer);
     }
 }

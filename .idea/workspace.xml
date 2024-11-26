@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97d0fdc4-458e-4df4-ae67-0b58bdcab940" name="Changes" comment="Working on Task1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/week8/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/week8/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/week8/CustomerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/week8/CustomerApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/week8/PreferredCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/week8/PreferredCustomer.java" afterDir="false" />
-    </list>
+    <list default="true" id="97d0fdc4-458e-4df4-ae67-0b58bdcab940" name="Changes" comment="Working on Task2 - Loyalty Points" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +69,7 @@
       <workItem from="1732365350867" duration="1125000" />
       <workItem from="1732470663872" duration="245000" />
       <workItem from="1732531082892" duration="58000" />
-      <workItem from="1732640666962" duration="615000" />
+      <workItem from="1732640666962" duration="971000" />
     </task>
     <task id="LOCAL-00001" summary="Created project">
       <created>1732111128119</created>
@@ -97,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1732120050212</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Working on Task2 - Loyalty Points">
+      <created>1732641371191</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732641371191</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +109,7 @@
     <MESSAGE value="Created project" />
     <MESSAGE value="Updated pom.xml file" />
     <MESSAGE value="Working on CustomerApp" />
-    <option name="LAST_COMMIT_MESSAGE" value="Working on CustomerApp" />
+    <MESSAGE value="Working on Task2 - Loyalty Points" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working on Task2 - Loyalty Points" />
   </component>
 </project>
